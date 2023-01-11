@@ -7,6 +7,7 @@ También se puede acceder a los talleres por el siguiente [link](https://drive.g
 Otros recursos:
 
 [Textbook de Qiskit](https://qiskit.org/textbook/preface.html)
+
 [Desigualdades de Bell en Qiskit](https://github.com/fequinteros/bell_checker)
 
 
